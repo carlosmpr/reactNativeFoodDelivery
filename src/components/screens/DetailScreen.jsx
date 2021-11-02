@@ -3,7 +3,7 @@ import { View, Text, SafeAreaView, ScrollView, StyleSheet , Image } from "react-
 import Pizza from '../../assets/images/pizza.jpeg';
 import { LinearGradient } from "expo-linear-gradient";
 export default function DetailScreen() {
-    //////
+    ////////
   return (
     <SafeAreaView style={styles.container}>
       <LinearGradient
